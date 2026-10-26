@@ -1,6 +1,7 @@
-package LSK;
+package lsk;
 
-class Skate extends TransportationDevice implements IMotorduna {
+
+class Car extends TransportationDevice implements IMotorduna, IMatrikuladuna {
     private Engine engine;
     
     @Override
@@ -8,4 +9,7 @@ class Skate extends TransportationDevice implements IMotorduna {
     
     @Override
     public Engine getEngine() { return engine; }
+    
+    @Override
+    public void matrikulatu() { /* ... */ }
 }

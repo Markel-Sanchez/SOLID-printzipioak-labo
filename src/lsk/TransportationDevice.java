@@ -1,4 +1,4 @@
-package LSK;
+package lsk;
 
 abstract class TransportationDevice {
     String name;

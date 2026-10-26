@@ -1,4 +1,4 @@
-package LSK;
+package lsk;
 
 class Trailer extends TransportationDevice implements IMatrikuladuna {
     @Override

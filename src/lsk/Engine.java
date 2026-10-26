@@ -1,4 +1,4 @@
-package LSK;
+package lsk;
 
 public class Engine {
 	boolean hasieratua;

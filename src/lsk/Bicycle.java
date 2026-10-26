@@ -1,4 +1,4 @@
-package LSK;
+package lsk;
 
 class Bicycle extends TransportationDevice {
 

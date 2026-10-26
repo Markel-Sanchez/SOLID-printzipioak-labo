@@ -1,4 +1,4 @@
-package LSK;
+package lsk;
 
 interface IMotorduna {
     Engine getEngine();
